@@ -1,0 +1,325 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pl-10{
+    padding-left: 10%;
+}
+.container-fluid{
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.navigation{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav-box{
+    width: 100%;
+    height: 15px;
+    background-color: #745a82;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    color: #745a82;
+    padding-left: 30px;
+    font-size: 18px;
+}
+.img-banner{
+    width: 100%;
+}
+
+.yoga-classes-title{
+     text-align: center;
+     margin-top: -17%;
+}
+.yoga-classes-title h2{
+    padding-top: 6%;
+}
+.yoga-classes-title h3{
+    padding-bottom: 14%;
+}
+.yoga-classes-title h2, .yoga-classes-title h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #745a82;
+    font-size: 41px;
+    letter-spacing: 5px;
+}
+.yoga-classes-title h3{
+    font-weight: bold;
+}
+.classes-details{
+    margin-top: 5%;
+}
+.classes-details .dot{
+    width: 5px;
+    height: 5px;
+    background-color: #745a82;
+    border-radius: 75%;
+    margin-top: 3px;
+}
+.classes-details h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    color: #745a82;
+    padding-top: 15px;
+}
+.classes-details h5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: #745a82;
+    padding-top: 15px;
+}
+.classes-details{
+    padding-bottom: 90px;
+}
+.light-font{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding-left: 18px;
+}
+.classes-details p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #745a82;
+}
+.img-classes-details{
+    display: block;
+    margin: auto;
+}
+.details-hr{
+    border: 0.5px solid #745a82;
+}
+.btn-show-more{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 4px;
+    color: #fff;
+    border: 0px;
+    background-color: #745a82;
+    border-radius: 50px;
+    padding: 20px 90px;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+}
+.img-summer-class-banner{
+    width: 100%;
+}
+
+.dynamic-title, .img-practice-dynamic, .img-practice-dynamic-1{
+    padding-top: 28%;
+}
+.img-practice-dynamic{
+    margin-left: 10%;
+}
+.img-practice-dynamic-1{
+    margin-left: -20%;
+}
+.dynamic-info{
+    padding-top: 60px;
+}
+.dynamic-title h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: #745a82;
+}
+.bold-title{
+    font-weight: bold;
+}
+.dynamic-info h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 34px;
+    letter-spacing: 3px;
+    color: #745a82;
+}
+.dynamic-info p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #745a82;
+    letter-spacing: 2px;
+    padding-top: 15px;
+}
+.dynamic-info hr{
+    border: 0.8px solid #745a82;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.dynamic-info h6{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #745a82;
+    letter-spacing: 2px;
+}
+.dynamic-info h5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #745a82;
+    margin-top: 50px;
+}
+.practice-dynamic{
+    position: relative;
+    margin-bottom: 5%;
+}
+.left-arc{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.right-arc{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.dynamic-info-1 p{
+    padding-top: 0px;
+}
+.healthy-life-title h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 34px;
+    letter-spacing: 3px;
+    color: #745a82;
+    background-color: #fff;
+   
+    text-align: center;
+}
+.healthy-life-title{
+    position: absolute;
+    left: 44%;
+    margin-top: -4%;
+   width: 200px;
+}
+.healthy-life{
+    position: relative;
+}
+.bord-1{
+    position: relative;
+    border: 0.8px solid #745a82;
+}
+.health-life-caption{
+    text-align: center;
+    margin-top: 30%;
+}
+.img-exerice{
+    width: 40%;
+}
+.health-life-caption h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #745a82;
+    padding-top: 10%;
+}
+.health-life-caption p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #745a82;
+    padding-top: 10%;
+}
+.summer-class{
+    margin-top: 5%;
+}
+.summer-classes-title h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #745a82;
+    text-align: center;
+}
+.workshop-caption h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: #745a82;
+}
+.workshop-caption h6{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 3px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #745a82;
+}
+.workshop-caption p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #745a82;
+}
+.workshop-caption{
+    margin-top: 20%;
+}
+.img-workshop{
+    padding-top: 10%;
+}
+.footer-logo{
+    display: block;
+    margin: auto;
+}
+.footer-caption h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 3%;
+    text-transform: uppercase;
+    color: #745a82;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 3px;
+}
+.footer-caption h5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #745a82;
+    margin-top: 15%;
+    letter-spacing: 3px;
+}
+.footer-caption p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #745a82;
+}
+.footer-caption li{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #745a82;
+    list-style: none;
+    line-height: 2;
+}
+a:hover{
+    text-decoration: none;
+    font-weight: bold;
+}
+.img-footer{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: block;
+    margin: auto;
+}
+.footer-nav-box{
+    width: 100%;
+    height: 25px;
+    background-color: #745a82;
+    margin-top: 3%;
+}
+
